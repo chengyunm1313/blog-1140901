@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chengyunm1313.github.io/posts/7a776471/</loc>
+    <loc>https://chengyunm1313.github.io/blog-1140901/about/index.html</loc>
     
     <lastmod>2025-09-01</lastmod>
     
@@ -11,7 +11,43 @@
   </url>
   
   <url>
-    <loc>https://chengyunm1313.github.io/posts/4a17b156/</loc>
+    <loc>https://chengyunm1313.github.io/blog-1140901/posts/7a776471/</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chengyunm1313.github.io/blog-1140901/posts/587bfa04/</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chengyunm1313.github.io/blog-1140901/posts/85abe156/</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chengyunm1313.github.io/blog-1140901/posts/change-title/</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chengyunm1313.github.io/blog-1140901/posts/4a17b156/</loc>
     
     <lastmod>2025-09-01</lastmod>
     
@@ -21,7 +57,7 @@
   
 
   <url>
-    <loc>https://chengyunm1313.github.io/</loc>
+    <loc>https://chengyunm1313.github.io/blog-1140901</loc>
     <lastmod>2025-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -29,5 +65,12 @@
 
   
 
+  
+  <url>
+    <loc>https://chengyunm1313.github.io/blog-1140901/categories/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

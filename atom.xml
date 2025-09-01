@@ -1,34 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>享哥的部落格</title>
   
   
-  <link href="https://chengyunm1313.github.io/atom.xml" rel="self"/>
+  <link href="https://chengyunm1313.github.io/blog-1140901/atom.xml" rel="self"/>
   
-  <link href="https://chengyunm1313.github.io/"/>
-  <updated>2025-09-01T11:56:23.861Z</updated>
-  <id>https://chengyunm1313.github.io/</id>
+  <link href="https://chengyunm1313.github.io/blog-1140901/"/>
+  <updated>2025-09-01T12:57:56.820Z</updated>
+  <id>https://chengyunm1313.github.io/blog-1140901/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>享哥</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第二篇：NexT 主題快速設定</title>
+    <link href="https://chengyunm1313.github.io/blog-1140901/posts/85abe156/"/>
+    <id>https://chengyunm1313.github.io/blog-1140901/posts/85abe156/</id>
+    <published>2025-09-01T12:54:42.000Z</published>
+    <updated>2025-09-01T12:57:56.820Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇：我的 Hexo 上線紀錄</title>
+    <link href="https://chengyunm1313.github.io/blog-1140901/posts/587bfa04/"/>
+    <id>https://chengyunm1313.github.io/blog-1140901/posts/587bfa04/</id>
+    <published>2025-09-01T12:54:41.000Z</published>
+    <updated>2025-09-01T12:57:56.820Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你的部落格名稱</title>
+    <link href="https://chengyunm1313.github.io/blog-1140901/posts/change-title/"/>
+    <id>https://chengyunm1313.github.io/blog-1140901/posts/change-title/</id>
+    <published>2025-09-01T12:31:54.000Z</published>
+    <updated>2025-09-01T12:40:11.598Z</updated>
+    
+    
+    <summary type="html">這裡寫站點描述（有助 SEO）</summary>
+    
+    
+    
+    <category term="網路行銷" scheme="https://chengyunm1313.github.io/blog-1140901/categories/%E7%B6%B2%E8%B7%AF%E8%A1%8C%E9%8A%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇文章</title>
-    <link href="https://chengyunm1313.github.io/posts/7a776471/"/>
-    <id>https://chengyunm1313.github.io/posts/7a776471/</id>
+    <link href="https://chengyunm1313.github.io/blog-1140901/posts/7a776471/"/>
+    <id>https://chengyunm1313.github.io/blog-1140901/posts/7a776471/</id>
     <published>2025-09-01T10:35:52.000Z</published>
-    <updated>2025-09-01T11:56:23.861Z</updated>
+    <updated>2025-09-01T13:50:16.752Z</updated>
     
-    <content type="html"><![CDATA[<p>我的第一篇文章</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="我的第一篇文章"><a href="#我的第一篇文章" class="headerlink" title="我的第一篇文章"></a>我的第一篇文章</h2><p>今天天氣真好</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;我的第一篇文章&lt;/p&gt;
+    <summary type="html">&lt;h2 id=&quot;我的第一篇文章&quot;&gt;&lt;a href=&quot;#我的第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇文章&quot;&gt;&lt;/a&gt;我的第一篇文章&lt;/h2&gt;&lt;p&gt;今天天氣真好&lt;/p&gt;
 </summary>
       
     
@@ -39,8 +82,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://chengyunm1313.github.io/posts/4a17b156/"/>
-    <id>https://chengyunm1313.github.io/posts/4a17b156/</id>
+    <link href="https://chengyunm1313.github.io/blog-1140901/posts/4a17b156/"/>
+    <id>https://chengyunm1313.github.io/blog-1140901/posts/4a17b156/</id>
     <published>2025-09-01T10:28:33.076Z</published>
     <updated>2025-09-01T10:35:31.459Z</updated>
     
